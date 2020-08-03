@@ -1,4 +1,4 @@
-Save new Pracownik/Pracowwnicy via Postman (http://localhost:8081/pracownik/save):
+Save new Pracownik/Pracownicy via Postman (http://localhost:8081/pracownik/save):
 
     {
         "id": 2,
@@ -24,7 +24,7 @@ Delete Pracownik: http://localhost:8081/pracownik/{id}
 
 Get only aktywniPracownicy: http://localhost:8081/aktywnyPracownik/get
 
-Get table aktywniPracownicy: http://localhost:8081/aktywnyPracownik/activPracownikData
+Get table data aktywniPracownicy: http://localhost:8081/aktywnyPracownik/activPracownikData
 
 Save aktywniPracownicy: http://localhost:8081/aktywnyPracownik/save
 
