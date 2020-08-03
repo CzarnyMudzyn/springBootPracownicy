@@ -1,6 +1,6 @@
 Save new Pracownik/Pracowwnicy via Postman (http://localhost:8081/pracownik/save):
 
-{
+    {
         "id": 2,
         "name": "Andrzej",
         "aktywnyPracownik": {
